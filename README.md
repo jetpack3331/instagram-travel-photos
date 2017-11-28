@@ -1,5 +1,7 @@
 # Travel App
 
+Show on map your photos from your trip(s)
+
 ## Contents
 
 - Installation
